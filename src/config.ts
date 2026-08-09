@@ -28,7 +28,8 @@ export const overlay = {
  * of a broken widget.
  */
 export const giscus = {
-	repo: 'osfasofa/whitepeople.lol',
+	/** Note: the repo is .com while the domain is .lol — this must match the repo. */
+	repo: 'osfasofa/whitepeople.com',
 	repoId: '',
 	category: 'Announcements',
 	categoryId: '',

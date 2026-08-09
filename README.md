@@ -72,7 +72,7 @@ To finish it:
 1. Make this repo **public** — giscus can't read private repos.
 2. **Settings → General → Features →** tick **Discussions**.
 3. Install the giscus app on this repo: <https://github.com/apps/giscus>.
-4. Open <https://giscus.app>, enter `osfasofa/whitepeople.lol`, choose the
+4. Open <https://giscus.app>, enter `osfasofa/whitepeople.com`, choose the
    **"Discussion title contains a specific term"** mapping and the
    **Announcements** category.
 5. Copy `data-repo-id` and `data-category-id` from the generated snippet into
