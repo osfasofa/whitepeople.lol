@@ -1,7 +1,7 @@
 # whitepeople.lol
 
 Sister site to [blackpeople.lol](https://blackpeople.lol). Same codebase, light
-theme, and it is only ever Rick Astley.
+theme, and mostly Rick Astley.
 
 ```bash
 npm install
@@ -20,7 +20,7 @@ itself, the change has to be applied in both places by hand.
 | Palette | black bg, white text | white bg, dark text |
 | giscus theme | `dark` | `light` |
 | `theme-color` | `#000000` | `#ffffff` |
-| Content | whatever's good | Rick Astley |
+| Content | whatever's good | mostly Rick Astley |
 
 Everything colour-related lives in the `:root` token block at the top of
 `src/styles/global.css`, plus the drawer surfaces further down. No logic differs.
@@ -39,7 +39,7 @@ Everything colour-related lives in the `:root` token block at the top of
 
    ```markdown
    ---
-   title: 'Rick Astley — Song Name'
+   title: 'Artist — Song Name'
    youtube: dQw4w9WgXcQ
    date: 2026-08-09T14:30:00-04:00
    blurb: 'Optional one-liner.'
